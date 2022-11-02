@@ -1,4 +1,4 @@
-# ICS2O-PWA-Template-HTML
+# ISC20-Unit-3-03
 
 [![Mr Coxall's Super Linter](https://github.com/ekaterina-chernykh/ISC20-Unit-3-03/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ekaterina-chernykh/ISC20-Unit-3-03/actions)
 
