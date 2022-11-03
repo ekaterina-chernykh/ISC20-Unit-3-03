@@ -23,7 +23,7 @@ function myButtonClicked() {
   const radius = parseFloat(document.getElementById("radius").value)
 
   // process
-  const volume = 
+  const volume =
     // output
     (document.getElementById("volume").innerHTML =
       "Volume is: " + volume + "mm³")
