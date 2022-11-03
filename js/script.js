@@ -23,8 +23,8 @@ function myButtonClicked() {
   const radius = parseFloat(document.getElementById("radius").value)
 
   // process
-  const volume = (4.0 / 3.0) * Math.PI * Math.pow(radius,3)
-  
+  const volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3)
+
   // output
   document.getElementById("volume").innerHTML =
     "Volume is: " + volume.toFixed(2) + "units³"
