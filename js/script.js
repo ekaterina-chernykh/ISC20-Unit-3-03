@@ -20,10 +20,10 @@ if (navigator.serviceWorker) {
  */
 function myButtonClicked() {
   // input
-  const height = parseFloat(document.getElementById("height").value)
+  const radius = parseFloat(document.getElementById("radius").value)
 
   // process
-  const volume =
+  const volume = 
     // output
     (document.getElementById("volume").innerHTML =
       "Volume is: " + volume + "mm³")
